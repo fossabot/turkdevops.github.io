@@ -1,6 +1,6 @@
 # turkdevops.github.io
 ## Türk Geliştiriciler Topluluğuna HoşGeldiniz 
-Hi there, I'm [kadirselcuk!](https://github.com/kadirselcuk) 👋 
+Selam ben, [kadirselcuk!](https://github.com/kadirselcuk) 👋 TurkDevOps'da geliştirici olarak çalışıyorum 
 ---
 Github'da açık kaynak yazılımların ve kuruluşların destek verdiği Türk geliştirici topluluklarına katılın! [TurkDevOps!](https://github.com/turkdevops)
 --- 
