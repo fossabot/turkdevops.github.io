@@ -15,3 +15,5 @@ Yeni nesil KİWİIRC canlı sohbet Kanalımızda gelişmeleri yakından takip ed
 # Bize IRC'de Ulaşın
 [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.kiwiirc.com/TurkDevOps.png)](https://kiwiirc.com/client/irc.kiwiirc.com/?nick=DevTurks|?#TurkDevOps)
 ---
+[![DeepScan grade](https://deepscan.io/api/teams/10243/projects/12969/branches/209149/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=10243&pid=12969&bid=209149)
+---
