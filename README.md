@@ -10,6 +10,8 @@ Kendinize projeleriniz için TurkDevOps'da Ekip kurun, arkadaşlarınızı ekibi
 ---
 Herkese ücretsiz sonsuza kadar :) 
 ---
+Yeni Projelerimizden haberdar olmak ister misiniz [DevTurks Forum!](https://devturksforum.flarum.cloud/) 
+---
 Yeni nesil KİWİIRC canlı sohbet Kanalımızda gelişmeleri yakından takip edin
 ---
 # Bize IRC'de Ulaşın
