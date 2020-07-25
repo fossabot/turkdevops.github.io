@@ -12,6 +12,8 @@ Herkese ücretsiz sonsuza kadar :)
 ---
 Yeni Projelerimizden haberdar olmak ister misiniz [DevTurks Forum!](https://devturksforum.flarum.cloud/) 
 ---
+Günlük blog haberlerimiz için [TurkDevOps WordPress!](https://turkdevops.wordpress.com/) yayın adresimiz
+---
 Yeni nesil KİWİIRC canlı sohbet Kanalımızda gelişmeleri yakından takip edin
 ---
 # Bize IRC'de Ulaşın
