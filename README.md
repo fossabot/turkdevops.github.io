@@ -1,20 +1,20 @@
-## Türk Geliştiriciler Topluluğuna HoşGeldiniz 
-Selam ben, [kadirselcuk!](https://github.com/kadirselcuk) 👋
- ---
-Github'da açık kaynak yazılımların ve kuruluşların destek verdiği Türk geliştirici topluluğu [TurkDevOps!](https://github.com/turkdevops) 'da geliştirici olarak çalışıyorum
+# Türk Geliştiriciler Topluluğuna HoşGeldiniz
 --- 
-Bizimle geliştirici ekiplerimize katılmak ve destek olmak ister misiniz? [DevTurks!](https://github.com/orgs/turkdevops/teams/devturks-team)
+# Selam ben, [kadirselcuk!](https://github.com/kadirselcuk) 👋
 ---
-Kendinize projeleriniz için TurkDevOps'da Ekip kurun, arkadaşlarınızı ekibinizde yetkilendirin ve çalışmaya başlayın. [Takım Kur!](https://github.com/orgs/turkdevops/teams)
+# Github'da açık kaynak yazılımların ve kuruluşların destek verdiği Türk geliştirici topluluğu [TurkDevOps!](https://github.com/turkdevops) 'da geliştirici olarak çalışıyorum
+--- 
+# Bizimle geliştirici ekiplerimize katılmak ve destek olmak ister misiniz? [DevTurks!](https://github.com/orgs/turkdevops/teams/devturks-team)
 ---
-Herkese ücretsiz sonsuza kadar :) 
+# Kendinize projeleriniz için TurkDevOps'da Ekip kurun, arkadaşlarınızı ekibinizde yetkilendirin ve çalışmaya başlayın. [Takım Kur!](https://github.com/orgs/turkdevops/teams)
 ---
-Yeni Projelerimizden haberdar olmak ister misiniz [DevTurks Forum!](https://devturksforum.flarum.cloud/) 
+# Herkese ücretsiz sonsuza kadar :) 
 ---
-Günlük blog haberlerimiz için [TurkDevOps WordPress!](https://turkdevops.wordpress.com/) yayın adresimiz
+# Yeni Projelerimizden haberdar olmak ister misiniz [DevTurks Forum!](https://devturksforum.flarum.cloud/) 
 ---
-Yeni nesil KİWİIRC canlı sohbet Kanalımızda gelişmeleri yakından takip edin
+# Günlük blog haberlerimiz için [TurkDevOps WordPress!](https://turkdevops.wordpress.com/) yayın adresini ziyaret ederek haberdar olun
 ---
+# Yeni nesil KİWİIRC canlı sohbet Kanalımızda gelişmeleri yakından takip edin
 # Bize IRC'de Ulaşın
 [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.kiwiirc.com/TurkDevOps.png)](https://kiwiirc.com/client/irc.kiwiirc.com/?nick=DevTurks|?#TurkDevOps)
 ---
