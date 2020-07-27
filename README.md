@@ -6,11 +6,11 @@
 --- 
 # Bizimle geliştirici ekiplerimize katılmak ve destek olmak ister misiniz? [DevTurks!](https://github.com/orgs/turkdevops/teams/devturks-team)
 ---
-# Kendinize projeleriniz için TurkDevOps'da Ekip kurun, arkadaşlarınızı ekibinizde yetkilendirin ve çalışmaya başlayın. [Takım Kur!](https://github.com/orgs/turkdevops/teams)
+# Kendinize projeleriniz için TurkDevOps'da Ekip kurun, arkadaşlarınızı ekibinizde yetkilendirin ve [Takım Kur!](https://github.com/orgs/turkdevops/teams)
 ---
 # Herkese ücretsiz sonsuza kadar :) 
 ---
-# Yeni Projelerimizden haberdar olmak ister misiniz [DevTurks Forum!](https://devturksforum.flarum.cloud/) 
+# Yeni Projelerimizden haberdar olmak için [DevTurks Forum!](https://devturksforum.flarum.cloud/) 
 ---
 # Günlük blog haberlerimiz için [TurkDevOps WordPress!](https://turkdevops.wordpress.com/) yayın adresini ziyaret ederek haberdar olun
 ---
