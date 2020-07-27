@@ -10,7 +10,7 @@
 ---
 # Herkese ücretsiz sonsuza kadar :) 
 ---
-# Yeni Projelerimizden haberdar olmak için [DevTurks Forum!](https://devturksforum.flarum.cloud/) 
+# Yeni Projelerimizden haberdar ol [DevTurks Forum!](https://devturksforum.flarum.cloud/) 
 ---
 # Günlük blog haberlerimiz için [TurkDevOps WordPress!](https://turkdevops.wordpress.com/) yayın adresini ziyaret ederek haberdar olun
 ---
