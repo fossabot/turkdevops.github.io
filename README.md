@@ -12,7 +12,7 @@
 ---
 ## [DevTurks Forum!](https://devturksforum.flarum.cloud/)'da proje sorunları hakkında yorum yapmak ister misin? Bize Katılın! 
 ---
-## Günlük blog haberlerimiz [TurkDevOps WordPress!](https://turkdevops.wordpress.com/) yayın adresini ziyaret ederek haberdar olun
+## Günlük blog haberlerimiz [TurkDevOps Blog!](http://turkdevops.my-board.org/) yayın adresini ziyaret ederek haberdar olun
 ---
 ## Yeni nesil KİWİIRC canlı sohbet Kanalımızda gelişmeleri yakından takip edin
 ## Bize IRC'de Ulaşın
