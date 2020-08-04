@@ -1,8 +1,10 @@
 # Türk Geliştiriciler Topluluğuna HoşGeldiniz
 --- 
-## Selam ben, [kadirselcuk!](https://github.com/kadirselcuk) 👋
+# DevTurks-Team 👋
+## [kadirselcuk!](https://github.com/kadirselcuk)
+## [Ahocan!](https://github.com/Ahocan)
 ---
-## Github'da açık kaynak yazılımların ve kuruluşların destek verdiği Türk geliştirici topluluğu [TurkDevOps!](https://github.com/turkdevops) 'da geliştirici olarak çalışıyorum
+## Github'da açık kaynak yazılımların ve kuruluşların destek verdiği Türk geliştirici topluluğu [TurkDevOps!](https://github.com/turkdevops) 'da geliştirici olarak çalışıyoruz
 --- 
 ## Bizimle geliştirici ekiplerimize katılmak ve destek olmak ister misiniz? [DevTurks Ekibi!](https://github.com/orgs/turkdevops/teams/devturks-team) topluluğunda fikirlerini bizimle paylaş
 ---
