@@ -25,3 +25,7 @@
 ---
 # [![buddy branch](https://app.buddy.works/kadirselcuk/turkdevops-github-io/repository/branch/master/badge.svg?token=63c099ba23195dd7c7dd38573a8b47113f894c237e86710108015da380bd8cb6 "buddy branch")](https://app.buddy.works/kadirselcuk/turkdevops-github-io/repository/branch/master)
 ---
+# Çeviri Çalışmaları
+Proje çeviri Ekiplerine katılmak için aşağıdaki rozeti kullanın 
+[![Crowdin](https://badges.crowdin.net/turkdevops/localized.svg)](https://crowdin.com/project/turkdevops)
+---
