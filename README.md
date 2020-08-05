@@ -1,9 +1,5 @@
 # Türk Geliştiriciler Topluluğuna HoşGeldiniz
 --- 
-# DevTurks-Team 👋
-## [kadirselcuk!](https://github.com/kadirselcuk)
-## [Ahocan!](https://github.com/Ahocan)
----
 ## Github'da açık kaynak yazılımların ve kuruluşların destek verdiği Türk geliştirici topluluğu [TurkDevOps!](https://github.com/turkdevops) 'da geliştirici olarak çalışıyoruz
 --- 
 ## Bizimle geliştirici ekiplerimize katılmak ve destek olmak ister misiniz? [DevTurks Ekibi!](https://github.com/orgs/turkdevops/teams/devturks-team) topluluğunda fikirlerini bizimle paylaş
@@ -30,4 +26,8 @@
 # Çeviri Çalışmaları
 Proje çeviri Ekiplerine katılmak için aşağıdaki rozeti kullanın 
 [![Crowdin](https://badges.crowdin.net/turkdevops/localized.svg)](https://crowdin.com/project/turkdevops)
+---
+# DevTurks-Team 👋
+## [kadirselcuk!](https://github.com/kadirselcuk)
+## [Ahocan!](https://github.com/Ahocan)
 ---
