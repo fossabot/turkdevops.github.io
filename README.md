@@ -12,10 +12,12 @@
 ---
 ## Günlük blog haberlerimiz [TurkDevOps Blog!](https://turkdevops.wordpress.com/) yayın adresini ziyaret ederek haberdar olun
 ---
-## Yeni nesil KİWİIRC canlı sohbet Kanalımızda gelişmeleri yakından takip edin
+##  Canlı Sohbet Odalarımızda gelişmeleri yakından takip edin
 ## Bize IRC'de Ulaşın
-
 [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.kiwiirc.com/TurkDevOps.png)](https://kiwiirc.com/client/irc.kiwiirc.com/?nick=DevTurks|?#TurkDevOps)
+---
+## Gitter Geliştirici Sohbetleri
+[![Gitter](https://badges.gitter.im/turkdevops/community.svg)](https://gitter.im/turkdevops/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 ---
 # Test Ortamında 
 ---
