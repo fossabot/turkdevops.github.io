@@ -33,3 +33,4 @@ Proje çeviri Ekiplerine katılmak için aşağıdaki rozeti kullanın
 ## [kadirselcuk!](https://github.com/kadirselcuk)
 ## [Ahocan!](https://github.com/Ahocan) 
 ---
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/test-geekbench4-turkdevops)
