@@ -1,7 +1,7 @@
 Geliştirici Topluluğuna HoşGeldiniz
 ---
 
-[Web Sitesi](https://devturks.cloudns.cl)
+[Web Sitesi](https://devturks.github.io)
 
 [TurkDevOps Github](https://github.com/turkdevops)
 
