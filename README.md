@@ -2,10 +2,10 @@ Geliştirici Topluluğuna HoşGeldiniz
 ---
 [Grafana](https://turkdevops.github.io/grafana)- 
 [Textpattern](https://turkdevops.github.io/textpattern)-
-[Brackets](https://turkdevops.github.io/Brackets)-
+[Brackets](https://turkdevops.github.io/brackets)-
 [Compose](https://turkdevops.github.io/compose)-
 [Test](https://turkdevops.github.io/test)-
-[İrc-FrameWork](https://turkdevops.github.io/İrc-FrameWork)-
+[İrc-FrameWork](https://turkdevops.github.io/irc-framework)-
 [Flarum](https://turkdevops.github.io/flarum)
 ---
 [Web Sitesi](https://turkdevops.github.io)
