@@ -31,6 +31,10 @@ Geliştirici Topluluğuna HoşGeldiniz
 [![Crowdin](https://badges.crowdin.net/turkdevops/localized.svg)](https://crowdin.com/project/turkdevops) 
 
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/test-geekbench4-turkdevops)
+
+<!-- DDoS-GUARD.net banner-->
+<a href="https://ddos-guard.net?affiliate=142787" title="DDoS Protection Powered by DDoS-GUARD" target="_blank"><img src="https://ddos-guard.net/images/logos/ddos-protection-long.png" alt="DDoS Protection Powered by DDoS-GUARD" border="0" width="329" height="76" /></a>
+<!-- DDoS-GUARD.net banner-->
 ---
 # DevTurks Ekibi
 [kadirselcuk!](https://github.com/kadirselcuk)
