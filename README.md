@@ -2,11 +2,12 @@ Geliştirici Topluluğuna HoşGeldiniz
 ---
 [Grafana](https://turkdevops.github.io/grafana)- 
 [Textpattern](https://turkdevops.github.io/textpattern)-
+[Typesetter](https://turkdevops.github.io/Typesetter)- 
 [Brackets](https://turkdevops.github.io/brackets)-
 [Compose](https://turkdevops.github.io/compose)-
 [Test](https://turkdevops.github.io/test)-
-[İrc-FrameWork](https://turkdevops.github.io/irc-framework)-
-[Flarum](https://turkdevops.github.io/flarum)
+[Flarum](https://turkdevops.github.io/flarum)-
+[IRC-FrameWork](https://turkdevops.github.io/irc-framework)
 ---
 # Web Sayfalarımız 
 [Web Sitemiz](https://turkdevops.github.io)
