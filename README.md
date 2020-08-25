@@ -15,6 +15,8 @@ Geliştirici Topluluğuna HoşGeldiniz
 
 [DevTurks Forum](https://devturksforum.flarum.cloud/)
 
+[Tartışma](http://devturks.mydiscussion.net) 
+
 [Haber Bloğu](https://turkdevops.wordpress.com/)
 
 ---
