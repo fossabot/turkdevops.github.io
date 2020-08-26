@@ -1,13 +1,33 @@
-Geliştirici Topluluğuna HoşGeldiniz
+Türk Geliştirici Operasyonları
 ---
-[Grafana](https://turkdevops.github.io/grafana)- 
-[Textpattern](https://turkdevops.github.io/textpattern)-
-[Typesetter](https://turkdevops.github.io/Typesetter)- 
-[Brackets](https://turkdevops.github.io/brackets)-
-[Compose](https://turkdevops.github.io/compose)-
-[Test](https://turkdevops.github.io/test)-
-[Flarum](https://turkdevops.github.io/flarum)-
+# Konular
+[Grafana](https://turkdevops.github.io/grafana)
+Grafit, InfluxDB ve Prometheus ve Daha Fazlası için güzel izleme ve metrik analitik ve gösterge tabloları için araç
+
+[Textpattern](https://turkdevops.github.io/textpattern)
+PHP ile yazılmış esnek, zarif, hızlı ve kullanımı kolay bir içerik yönetim sistemi
+
+[Typesetter](https://turkdevops.github.io/Typesetter)
+PHP ile yazılmış açık kaynak CMS, gerçek WYSIWYG düzenleme ve düz dosya depolama
+
+[Brackets](https://turkdevops.github.io/brackets)
+Web için JavaScript, HTML ve CSS ile yazılmış bir açık kaynak kod editörü
+
+[Compose](https://turkdevops.github.io/compose)
+Docker ile çoklu kapsayıcı uygulamaları tanımlayın ve çalıştırın
+
+[Test](https://turkdevops.github.io/test)
+Elm kodu için birim ve fuzz testleri yazın
+
+[Flarum](https://turkdevops.github.io/flarum)
+Harika topluluklar oluşturmak için basit forum yazılımı
+
 [IRC-FrameWork](https://turkdevops.github.io/irc-framework)
+Node.js için daha iyi bir IRC çerçevesi Botlar ve tam istemciler için
+
+[Rubygems](https://turkdevops.github.io/rubygems)
+Ruby için kitaplık paketleme ve dağıtma
+
 ---
 # Web Sayfalarımız 
 [Web Sitemiz](https://turkdevops.github.io)
