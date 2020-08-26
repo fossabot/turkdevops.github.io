@@ -29,7 +29,7 @@ Node.js için daha iyi bir IRC çerçevesi Botlar ve tam istemciler için
 Ruby için kitaplık paketleme ve dağıtma
 
 ---
-# katılımcı sözleşmesi davranış [kurallarımız!](https://github.com/turkdevops/turkdevops.github.io/blob/master/CODE_OF_CONDUCT.md)
+# katılımcı sözleşmesi davranış [kurallarımızı okuyun](https://github.com/turkdevops/turkdevops.github.io/blob/master/CODE_OF_CONDUCT.md)
 ---
 # Web Sayfalarımız 
 [Web Sitemiz](https://turkdevops.github.io)
