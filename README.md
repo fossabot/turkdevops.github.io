@@ -49,6 +49,7 @@ Ruby için kitaplık paketleme ve dağıtma
 [![Gitter](https://badges.gitter.im/turkdevops/community.svg)](https://gitter.im/turkdevops/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 ---
 # Test Ortamı
+[![Download turkdevops](https://sourceforge.net/sflogo.php?type=14&group_id=3249738)](https://sourceforge.net/p/turkdevops/)
 [![Edit headless-dawn-bdj4s](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/headless-dawn-bdj4s?autoresize=1&fontsize=14&hidenavigation=1&theme=dark)
 [![Crowdin](https://badges.crowdin.net/turkdevops/localized.svg)](https://crowdin.com/project/turkdevops) 
 [![Derin Tarama](https://deepscan.io/api/teams/10243/projects/12969/branches/209149/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=10243&pid=12969&bid=209149)
