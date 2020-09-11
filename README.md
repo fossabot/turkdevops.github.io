@@ -41,6 +41,7 @@ Ruby için kitaplık paketleme ve dağıtma
 [Tartışma](http://devturks.mydiscussion.net) 
 
 [Haber Bloğu](https://turkdevops.wordpress.com/)
+
 ---
 # Posta Listesi
 Güvenlik ve yazılım güncellemeleri için [TurkDevOps Posta Listesine Abone Olun!](https://lists.sourceforge.net/lists/listinfo/turkdevops-post) 
