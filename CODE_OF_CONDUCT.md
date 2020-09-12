@@ -5,7 +5,7 @@ KATILIMCI SÖZLEŞMESİ DAVRANIŞ KURALLARI
 
 Açık, misafirperver, çeşitli, kapsayıcı ve sağlıklı bir topluluğa katkıda bulunacak şekillerde hareket etmeyi ve etkileşimde bulunmayı taahhüt ediyoruz.
 
-#Standartlarımız
+# Standartlarımız
 
 Topluluğumuz için olumlu bir ortama katkıda bulunan davranış örnekleri şunları içerir:
 
