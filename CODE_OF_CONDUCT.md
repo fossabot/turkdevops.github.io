@@ -32,7 +32,7 @@ Bu Davranış Kuralları, tüm topluluk alanları için geçerlidir ve ayrıca b
 
 # Uygulama
 
-Taciz edici, taciz edici veya başka şekilde kabul edilemez davranış örnekleri, [INSERT CONTACT METHOD] adresinde yaptırımdan sorumlu topluluk liderlerine bildirilebilir. Tüm şikayetler derhal ve adil bir şekilde incelenecek ve araştırılacaktır.
+Taciz edici, taciz edici veya başka şekilde kabul edilemez davranış örnekleri, turkdevops@gmail.com adresinde yaptırımdan sorumlu topluluk liderlerine bildirilebilir. Tüm şikayetler derhal ve adil bir şekilde incelenecek ve araştırılacaktır.
 
 Tüm topluluk liderleri, herhangi bir olayda muhabirin mahremiyetine ve güvenliğine saygı göstermekle yükümlüdür.
 
