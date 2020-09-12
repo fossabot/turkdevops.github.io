@@ -1,4 +1,4 @@
-KATILIMCI SÖZLEŞMESİ DAVRANIŞ KURALLARI
+## KATILIMCI SÖZLEŞMESİ DAVRANIŞ KURALLARI
 
 # Taahhüdümüz
 Üyeler, katkıda bulunanlar ve liderler olarak, yaş, vücut ölçüsü, görünür veya görünmeyen engellilik, etnik köken, cinsiyet özellikleri, cinsiyet kimliği ve ifadesi, deneyim düzeyi, eğitim ne olursa olsun, topluluğumuza katılımı herkes için taciz içermeyen bir deneyim haline getirmeyi taahhüt ediyoruz. , sosyo-ekonomik durum, milliyet, kişisel görünüm, ırk, din veya cinsel kimlik ve yönelim.
