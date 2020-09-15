@@ -52,6 +52,7 @@ Güvenlik ve yazılım güncellemeleri için [TurkDevOps Posta Listesine Abone O
 [![Gitter](https://badges.gitter.im/turkdevops/community.svg)](https://gitter.im/turkdevops/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 ---
 # Test Ortamı
+[![Download turkdevops](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/turkdevops/files/latest/download)
 [![Download turkdevops](https://sourceforge.net/sflogo.php?type=14&group_id=3249738)](https://sourceforge.net/p/turkdevops/)
 [![Edit headless-dawn-bdj4s](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/headless-dawn-bdj4s?autoresize=1&fontsize=14&hidenavigation=1&theme=dark)
 [![Crowdin](https://badges.crowdin.net/turkdevops/localized.svg)](https://crowdin.com/project/turkdevops) 
