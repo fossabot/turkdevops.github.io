@@ -60,7 +60,7 @@ Güvenlik ve yazılım güncellemeleri için [TurkDevOps Posta Listesine Abone O
 [![buddy branch](https://app.buddy.works/kadirselcuk/turkdevops-github-io/repository/branch/master/badge.svg?token=63c099ba23195dd7c7dd38573a8b47113f894c237e86710108015da380bd8cb6 "buddy branch")](https://app.buddy.works/kadirselcuk/turkdevops-github-io/repository/branch/master)
 [![Build status](https://badge.buildkite.com/af000bc385e6c82e5a3739f948a5415edc393bb92f6393660b.svg)](https://buildkite.com/turkdevops/elektron)
 ![CI/PR](https://github.com/git/git/workflows/CI/PR/badge.svg)
-[![Known Vulnerabilities](https://snyk.io/test/github/turkdevops/node/badge.svg?targetFile=deps/node-inspect/package.json)](https://snyk.io/test/github/turkdevops/node?targetFile=deps/node-inspect/package.json)
+[![Known Vulnerabilities](https://snyk.io/test/github/turkdevops/node/badge.svg?targetFile=deps/node-inspect/package.json)](https://snyk.io/test/github/turkdevops/node?targetFile=deps/node-inspect/package.json) [![Join the chat at https://gitter.im/turkdevops/Sohbet](https://badges.gitter.im/turkdevops/Sohbet.svg)](https://gitter.im/turkdevops/Sohbet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <!-- DDoS-GUARD.net banner-->
 <a href="https://ddos-guard.net?affiliate=142787" title="DDoS Protection Powered by DDoS-GUARD" target="_blank"><img src="https://ddos-guard.net/images/logos/ddos-protection-long.png" alt="DDoS Protection Powered by DDoS-GUARD" border="0" width="329" height="76" /></a>
 <!-- DDoS-GUARD.net banner-->
