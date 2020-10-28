@@ -58,6 +58,7 @@ Güvenlik ve yazılım güncellemeleri için [TurkDevOps Posta Listesine Abone O
 [![Crowdin](https://badges.crowdin.net/turkdevops/localized.svg)](https://crowdin.com/project/turkdevops) 
 [![Derin Tarama](https://deepscan.io/api/teams/10243/projects/12969/branches/209149/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=10243&pid=12969&bid=209149)
 [![buddy branch](https://app.buddy.works/kadirselcuk/turkdevops-github-io/repository/branch/master/badge.svg?token=63c099ba23195dd7c7dd38573a8b47113f894c237e86710108015da380bd8cb6 "buddy branch")](https://app.buddy.works/kadirselcuk/turkdevops-github-io/repository/branch/master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/970360daeb34da455d4f/maintainability)](https://codeclimate.com/github/turkdevops/turkdevops.github.io/maintainability)
 [![Build status](https://badge.buildkite.com/af000bc385e6c82e5a3739f948a5415edc393bb92f6393660b.svg)](https://buildkite.com/turkdevops/elektron)
 ![CI/PR](https://github.com/git/git/workflows/CI/PR/badge.svg)
 [![Known Vulnerabilities](https://snyk.io/test/github/turkdevops/node/badge.svg?targetFile=deps/node-inspect/package.json)](https://snyk.io/test/github/turkdevops/node?targetFile=deps/node-inspect/package.json) [![Join the chat at https://gitter.im/turkdevops/Sohbet](https://badges.gitter.im/turkdevops/Sohbet.svg)](https://gitter.im/turkdevops/Sohbet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
