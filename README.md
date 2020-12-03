@@ -62,6 +62,5 @@ Güvenlik ve yazılım güncellemeleri için [TurkDevOps Posta Listesine Abone O
 <!-- DDoS-GUARD.net banner-->
 ---
 # DevTurks Ekibi
-[kadirselcuk!](https://github.com/kadirselcuk)
-[Ahocan!](https://github.com/Ahocan) 
+[kadirselcukgithub!](https://github.com/kadirselcuk) ayrıca bana [TürkiyeForumları!](https://www.turkiyeforumlari.net/members/okk.5327/)'nda ulaşabilirsin (:
 ---
