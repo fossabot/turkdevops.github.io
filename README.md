@@ -55,6 +55,7 @@ Güvenlik ve yazılım güncellemeleri için [TurkDevOps Posta Listesine Abone O
 [![Download turkdevops](https://sourceforge.net/sflogo.php?type=14&group_id=3249738)](https://sourceforge.net/p/turkdevops/)
 [![Edit headless-dawn-bdj4s](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/headless-dawn-bdj4s?autoresize=1&fontsize=14&hidenavigation=1&theme=dark)
 [![Crowdin](https://badges.crowdin.net/turkdevops/localized.svg)](https://crowdin.com/project/turkdevops) 
+[![DeepScan grade](https://deepscan.io/api/teams/10286/projects/13004/branches/210925/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=10286&pid=13004&bid=210925)
 [![Derin Tarama](https://deepscan.io/api/teams/10243/projects/12969/branches/209149/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=10243&pid=12969&bid=209149)
 [![buddy branch](https://app.buddy.works/kadirselcuk/turkdevops-github-io/repository/branch/master/badge.svg?token=63c099ba23195dd7c7dd38573a8b47113f894c237e86710108015da380bd8cb6 "buddy branch")](https://app.buddy.works/kadirselcuk/turkdevops-github-io/repository/branch/master)
 <!-- DDoS-GUARD.net banner-->
