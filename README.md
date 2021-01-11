@@ -37,8 +37,6 @@ Ruby için kitaplık paketleme ve dağıtma
 
 [DevTurks Forum](https://devturksforum.flarum.cloud/)
 
-[Tartışma](http://devturks.mydiscussion.net) 
-
 [Haber Bloğu](https://turkdevops.wordpress.com/)
 
 ---
