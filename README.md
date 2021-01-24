@@ -64,4 +64,5 @@ Güvenlik ve yazılım güncellemeleri için [TurkDevOps Posta Listesine Abone O
 [Ahocan!](https://github.com/Ahocan) 
 ---
 # Bağıs
+
 <a href="https://donorbox.org/turkdevops">Donate Text or Image HTML</a>
